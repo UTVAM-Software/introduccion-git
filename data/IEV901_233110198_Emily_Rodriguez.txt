@@ -1,0 +1,6 @@
+MATRICULA: 233110198
+NOMBRE: Emily Lesly
+APELLIDO_PATERNO: Rodriguez
+APELLIDO_MATERNO: Ordoñez
+CARRERA: Ingeniería en Entornos Virtuales y Negocios Digitales
+GRUPO: IEV901
