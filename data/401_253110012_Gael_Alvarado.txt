@@ -1,0 +1,6 @@
+MATRICULA: 253110012
+NOMBRE: Gael Salvador
+APELLIDO_PATERNO: Alvarado
+APELLIDO_MATERNO: Villegas
+CARRERA: T.S.U. en Desarrollo de Software Multiplataforma 
+GRUPO: TID401
