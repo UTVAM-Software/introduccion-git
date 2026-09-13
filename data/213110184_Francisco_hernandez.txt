@@ -1,0 +1,6 @@
+MATRICULA: 21311014
+NOMBRE: Francisco Javier
+APELLIDO_PATERNO: Hernandez
+APELLIDO_MATERNO: Hernandez
+CARRERA: Desarrollo de web integral
+GRUPO: IDS901
