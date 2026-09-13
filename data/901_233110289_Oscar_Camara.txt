@@ -3,4 +3,4 @@ NOMBRE: Oscar
 APELLIDO_PATERNO: Camara
 APELLIDO_MATERNO: Torres
 CARRERA: Ingeniería en Desarrollo de Software y Multiplataforma
-GRUPO: IDS901
+GRUPO: IDS 901
