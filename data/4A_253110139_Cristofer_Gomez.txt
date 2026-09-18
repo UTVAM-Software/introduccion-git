@@ -1,6 +1,6 @@
 MATRICULA: 253110139
-NOMBRE: cristofer
+NOMBRE: eduardo
 APELLIDO_PATERNO: gomez
 APELLIDO_MATERNO: aguilar
-CARRERA: desarrollo de software multi plataforma
+CARRERA: desarrollo de software multiplataforma
 GRUPO: tid401
