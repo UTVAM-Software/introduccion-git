@@ -1,2 +1,4 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
+223110273,Alfredo,Fragoso,Reyes,IEV901,Ciberseguridad
+
