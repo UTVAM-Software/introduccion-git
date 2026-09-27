@@ -15,3 +15,4 @@ MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 233110084,Eunice,Sanchez,Pacheco,IDS901,Desarrollo web integral
 233110232,Patricia,Lozano,Hernández,IDS901,Desarrollo Web Integral
 233110181,Leonardo, Polo, Pérez, IDS901, Desarrollo Web Integral
+233110189,Nicolas,Hernandez,Maldonado,IDS901,Desarrollo Web Integral
