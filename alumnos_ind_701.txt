@@ -3,3 +3,4 @@ MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 243110068,Alan Kiev,Gutiérrez,Gómez,IND701,Optativa
 243110227,Santiago,Albarrán,González,IND701,Optativa 1
 243110096,Tania Linxy,Perez,Alvarez,IND701,Optativa I
+243110169,Jose Daniel,Diaz,Torres,IND701,Optativa I
